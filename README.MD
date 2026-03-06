@@ -409,8 +409,7 @@ Servindo como **base para sistemas administrativos escaláveis**.
 
 # 👨‍💻 Autor
 
-Projeto desenvolvido para estudo e demonstração de arquitetura moderna
-com React.
+Projeto desenvolvido por: <a href="https://github.com/GuiPolezi">Gui Polezi</a>
 
 ------------------------------------------------------------------------
 
