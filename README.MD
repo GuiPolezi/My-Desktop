@@ -36,41 +36,33 @@ escalável utilizando:
 
 # 🧰 Stack Tecnológica
 
-## ⚙️ Core
+| ⚙️ Core |  🧭 Roteamento | 🔐 Autenticação |
+| :--- | :---: | ---: | 
+|    React 19 | React Router v7 | Auth0 |
+| Refine Framework| | @auth0/auth0-react |
 
--   React 19
--   Refine Framework
 
-## 🧭 Roteamento
-
--   React Router v7
-
-## 🔐 Autenticação
-
--   Auth0
--   @auth0/auth0-react
-
-## 📊 Tabelas
+### 📊 Tabelas
 
 -   TanStack Table v8
 -   @refinedev/react-table
 
-## 📝 Formulários
+### 📝 Formulários
 
 -   React Hook Form
 -   @refinedev/react-hook-form
 
-## 🎨 Estilização
+### 🎨 Estilização
 
 -   Tailwind CSS
 -   CSS Customizado
 
-## 🌐 Comunicação com API
+### 🌐 Comunicação com API
 
 -   Axios
 -   @refinedev/rest
 
-## ⚡ Build Tool
+### ⚡ Build Tool
 
 -   Vite
 
